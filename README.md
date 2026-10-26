@@ -14,7 +14,7 @@ A ferramenta analisa palavras-chave, formatação e dá uma pontuação de compa
 
 ## 🔗 Links
 - Repositório: https://github.com/bellabeautybb23-ship-it/screenshot-to-spark-8681
-- App Online: (cole o link do seu Publish da Lovable aqui)
+- App Online: https://screenshot-to-spark-8681.lovable.app
 
 ## 💻 Como rodar
 npm install
