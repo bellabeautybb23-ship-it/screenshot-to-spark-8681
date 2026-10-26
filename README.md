@@ -1,26 +1,21 @@
-# Screenshot To Spark
+# ATS Boost - Otimizador de Currículos para ATS
 
-Implement exactly the screenshot and nothing else
+Projeto desenvolvido com Lovable para o Bootcamp DIO.
 
-This project was built with [Lovable](https://lovable.dev).
+## 🎯 Sobre o Projeto
+Este projeto ajuda candidatos a melhorarem seus currículos para passarem nos sistemas ATS (Applicant Tracking Systems) usados por RH.
 
-**Live app**: https://screenshot-to-spark-8681.lovable.app
+A ferramenta analisa palavras-chave, formatação e dá uma pontuação de compatibilidade com a vaga.
 
-## Build with Lovable
+## 🚀 Tecnologias
+- React + TypeScript
+- Tailwind CSS
+- Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/c4660202-956e-46fc-b8da-19156111e834).
+## 🔗 Links
+- Repositório: https://github.com/bellabeautybb23-ship-it/screenshot-to-spark-8681
+- App Online: (cole o link do seu Publish da Lovable aqui)
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+## 💻 Como rodar
+npm install
 npm run dev
-```
